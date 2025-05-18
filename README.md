@@ -7,4 +7,4 @@ Here you'll find:
 -  **Completed projects** 
 -  **Behind-the-scenes files** 
 
-This space serves as both a portfolio and a living lab for experimentation — spanning across my interests in Management, design, social impact, and creative tech.
+This space serves as both a portfolio and a living lab for experimentation, spanning across my interests in Management, design, social impact, and creative tech.
