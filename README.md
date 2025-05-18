@@ -20,3 +20,4 @@ The code is kept private, but the site demonstrates:
 
 While it's a beginner-level project, it helped me understand the fundamentals of structuring web pages, styling with CSS, and adding interactivity with JavaScript.
 
+![website screenshot](https://github.com/user-attachments/assets/023cf0ca-feca-46d3-a8ee-120e741f1f23)
