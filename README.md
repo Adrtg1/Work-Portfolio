@@ -20,3 +20,20 @@ The code is kept private, but the site demonstrates:
 While it's a beginner-level project, it helped me understand the fundamentals of structuring web pages, styling with CSS, and adding interactivity with JavaScript.
 
 ![wesbiteshow](https://github.com/user-attachments/assets/fb56fa67-5c6f-4cf5-bf03-5a0c4c263dc4)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Animated To-Do List 
+
+A simple and classic front-end project, the To-Do List with a modern, cozy theme.
+
+- Simple HTML structure
+- CSS for styling and animation
+- JavaScript for interactivity and data persistence via LocalStorage
+  Animated Task completion Line using CSS keyframes
+- The development process was supported by independent research, including various online instructional resources. 
+
+Yet another simple beginner-level project to showcase my learning from zero knowledge of programming to current completion of projects
+
+![todolistshow](https://github.com/user-attachments/assets/2196844b-4a3a-454e-89f9-875c3e749456)
+
