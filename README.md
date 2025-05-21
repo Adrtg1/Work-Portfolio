@@ -1,7 +1,6 @@
 # Adrian – Projects & Documentation Hub
 
-Hi! This GitHub repository is a curated collection of my personal and collaborative projects, where I document my development process, share prototypes, and reflect on work in progress.
-
+Hi! This GitHub repository is a curated collection of my personal and collaborative projects, where I document my development process and showcase projects
 Here you'll find:
 -  **Work-in-progress builds** — from independent game development to research-based initiatives  
 -  **Completed projects** 
