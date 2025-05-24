@@ -10,6 +10,8 @@ This space serves as both a portfolio and a living lab for experimentation, span
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Personal Website
 
+Link: https://adrtg1.github.io/Website/
+
 A personal site built to serve as a digital hub for my portfolio and project documentation. 
 The code is kept private, but the site demonstrates:
 -  Foundational proficiency in HTML, CSS, and JavaScript through practical implementation.
@@ -24,9 +26,7 @@ While it's a beginner-level project, it helped me understand the fundamentals of
 
 Animated To-Do List 
 
-A simple and classic front-end project, the To-Do List with a modern, cozy theme.
-
-link: https://adrtg1.github.io/Website/ 
+A simple and classic front-end project, the To-Do List with a modern, cozy theme. 
 
 - Simple HTML structure
 - CSS for styling and animation
