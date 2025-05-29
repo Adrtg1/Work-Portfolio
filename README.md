@@ -6,7 +6,7 @@ Here you'll find:
 -  **Work-in-progress builds** — from independent game development to research-based initiatives  
 -  **Completed projects** 
 
-This space serves as both a portfolio spanning across my interests in Management, design, social impact, and creative tech.
+This space serves as a portfolio spanning across my interests in Management, design, social impact, and creative tech.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Co-founder of 16961363 Canada Inc. (Game Studio Company)
