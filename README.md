@@ -8,6 +8,49 @@ Here you'll find:
 This space serves as both a portfolio and a living lab for experimentation, spanning across my interests in Management, design, social impact, and creative tech.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Co-founder of 16961363 Canada Inc. (Game Studio Company)
+
+Building from the ground up, concept to creation
+
+In 2025 I co-founded 16961363 Canada Inc, an independent studio currently in its pre-production phase. 
+
+**Early Development Stage**
+
+We are currently in the conceptual and planning phase of our first game. 
+For now, the project is operating under the codename "Project DF"
+
+Some of our ongoing work includes:
+
+- Story development: Worldbuilding, character arcs, narrative structure.
+- Mechanics: Brainstorming gameplay loops, player abilities, and enemy design.
+- Competitive research and genre analysis.
+- Mood boards, concept sketches, and early art direction.
+- Exploring Godot for prototyping.
+
+**My Role**
+
+As co-founder, I currently focus on the business and operational foundation of the studio while guiding early-stage planning efforts
+
+- Project management: Setting timelines, tracking milestones, and coordinating team workflows to keep development aligned and focused.
+- Strategic planning: Leading discussions on long-term goals, production scope, and go-to-market strategies.
+- Creative direction: Shaping the game’s core vision, genre focus, and player experience alongside the team.
+- Business development: Outlining initial funding strategies, researching publishing opportunities, and identifying key partnerships.
+- Documentation & organization: Creating our Game Design Documents, pitch decks, and internal planning resources (Notion, Google Docs, GitHub, etc).
+- Community groundwork: Exploring brand identity, setting up early social media, and drafting initial marketing plans.
+
+**The Vision** 
+
+We’re building a horror-themed narrative game inspired by titles like SIGNALIS and Darkwood, games that masterfully blend psychological tension, atmosphere, and storytelling.
+
+Our project aims to combine:
+- A rich, lived-in, emotionally resonant story with layers of mystery and discovery
+- Stylized visuals and atmospheric sound design that heighten immersion and dread
+- Tight, intuitive gameplay mechanics that support exploration and tension
+- A strong focus on worldbuilding and environmental storytelling
+
+This is a long-term passion project currently in collaborative development, with plans to release a small playable demo within the next 8 - 12 months, serving as a proof of concept for potential funding and community interest.
+  
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Personal Website
 
 Link: https://adrtg1.github.io/Website/
