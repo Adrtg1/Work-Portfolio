@@ -30,9 +30,10 @@ Some of our ongoing work includes:
 
 **My Role**
 
-As co-founder, I currently focus on the business and operational foundation of the studio while guiding early-stage planning efforts
+As co-founder, I currently focus on the business and operational foundation of the studio while also guiding early-stage planning efforts
 
 - Project management: Setting timelines, tracking milestones, and coordinating team workflows to keep development aligned and focused.
+- Project Development: Narrative structure and worldbuilding, Gameplay conception, UI/UX wireframing
 - Strategic planning: Leading discussions on long-term goals, production scope, and go-to-market strategies.
 - Creative direction: Shaping the game’s core vision, genre focus, and player experience alongside the team.
 - Business development: Outlining initial funding strategies, researching publishing opportunities, and identifying key partnerships.
